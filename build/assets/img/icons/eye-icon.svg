@@ -1,0 +1,18 @@
+<svg id="Group_5222" data-name="Group 5222" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65.39" height="36.31" viewBox="0 0 65.39 36.31">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3463" data-name="Rectangle 3463" width="27" height="18" transform="translate(-0.125 0.09)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_3464" data-name="Rectangle 3464" width="20" height="17" transform="translate(-0.205 -0.217)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="XMLID_605_" transform="translate(0 0)">
+    <g id="XMLID_606_">
+      <g id="XMLID_607_">
+        <path id="Path_7623" data-name="Path 7623" d="M66.342,40.038c-.275,0-.547.01-.817.028a11.324,11.324,0,0,0-17.884-6.979,11.9,11.9,0,0,0-22.2,5.765,11.675,11.675,0,0,0,.063,1.213q-.4-.027-.814-.028a11.709,11.709,0,1,0,0,23.416H66.342a11.709,11.709,0,1,0,0-23.416Z" transform="translate(-12.821 -27.144)" fill="#dde9ed"/>
+      </g>
+    </g>
+  </g>
+  <path id="Icon_material-remove-red-eye" data-name="Icon material-remove-red-eye" d="M15.2,6.75c-6.226,0-11.543,3.134-13.7,7.557,2.154,4.424,7.471,7.557,13.7,7.557s11.543-3.134,13.7-7.557C26.741,9.884,21.424,6.75,15.2,6.75Zm0,12.6c-3.437,0-6.226-2.257-6.226-5.038S11.761,9.269,15.2,9.269s6.226,2.257,6.226,5.038S18.634,19.345,15.2,19.345Zm0-8.061c-2.067,0-3.736,1.35-3.736,3.023S13.13,17.33,15.2,17.33s3.736-1.35,3.736-3.023S17.265,11.284,15.2,11.284Z" transform="translate(16.195 7.856)" fill="#fbb415"/>
+</svg>
